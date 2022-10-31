@@ -1,0 +1,216 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/us.xml.gz"
+
+
+#EXTINF:-1 channel-id="samsung-USAJ34000090D" tvg-id="USAJ34000090D" tvg-chno="1190" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/80/USAJ34000090D_20220330T044757.png" group-title="Sports",MAVTV Select
+https://5e40ddae915641febc61168f0f1d612a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MavTV/playlist.m3u8?ads.wurl_channel=303&ads.wurl_name=MavTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-id="mjh-trackside-1" channel-id="mjh-trackside-1" tvg-logo="https://i.mjh.nz/.images/trackside-1.png" tvg-chno="62",TAB Trackside 1
+https://i.mjh.nz/trackside-1.m3u8
+
+#EXTINF:-1 tvg-id="mjh-trackside-2" channel-id="mjh-trackside-2" tvg-logo="https://i.mjh.nz/.images/trackside-2.png" tvg-chno="63",TAB Trackside 2
+https://i.mjh.nz/trackside-2.m3u8
+
+#EXTINF:-1 tvg-id="FailArmy.us" status="online",FailArmy (720p)
+https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1, Disney channel
+rtmp://109.200.202.124:1935/live playpath=disney swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/disney.html token=ef8e8620da151301dfa07b3886ab30ad live=1
+#EXTINF:-1, Nickelodeon
+rtmp://rtmp.myhdcast.com/redirect/tntusa_usa pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=fCqfhb14WwwFbAsDbV3Z?Ger61uLQ4fedzvjRjrB7?IWSyIjvWgHRCMM7MEJoZ?TfRQx7deUAuncJwM047m pageUrl=http://zerocast.in/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=OOG17t.x#K9Vh#|
+
+#EXTINF:-1, Cartoon network
+http://198.27.94.105/hls/cartoon____0.m3u8
+
+#EXTINF:-1, Channel 7 Gold Coast
+https://npc.cdn.7livecloud.io/hls/live/GLD1/masterSD.m3u8
+
+#EXTINF:-1, 7TWO Brisbane
+https://npc.cdn.7livecloud.io/hls/live/BRI2/masterSD.m3u8
+
+#EXTINF:-1, 7Mate Brisbane
+https://npc.cdn.7livecloud.io/hls/live/BRI3/masterSD.m3u8
+
+#EXTINF:-1, 7Flix Brisbane
+https://npc.cdn.7livecloud.io/hls/live/BRI6/masterSD.m3u8
+
+#EXTINF:-1, ABC Brisbane
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/2dfc66233f7884ed7q1c52687b675f15/index.m3u8
+
+#EXTINF:-1, ABC ME
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/c2a88b3fcefb4920b6b52134a453ed9c/index.m3u8
+
+#EXTINF:-1, ABC Comedy/Kids
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/3c7653c38e0e40fbbbaeaefb02ae6fd1/index.m3u8
+
+#EXTINF:-1, iRacing National
+https://npc.cdn.7livecloud.io/hls/live/RAC/masterSD.m3u8
+
+#EXTINF:-1, iRacing Victoria
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+#EXTINF:-1, Channel 9 Brisbane
+https://9now-livestreams.akamaized.net/hls/live/2008324/ch9-bne/master.m3u8
+
+#EXTINF:-1, 9 Gem Brisbane
+https://9now-livestreams.akamaized.net/hls/live/2008315/gem-bne/master.m3u8
+
+#EXTINF:-1, 9 GO Brisbane
+https://9now-livestreams.akamaized.net/hls/live/2008320/go-bne/master.m3u8
+
+#EXTINF:-1, 9 Life Brisbane
+https://9now-livestreams.akamaized.net/hls/live/2008328/life-bne/master.m3u8
+
+#EXTINF:-1, 9 Rush Brisbane
+https://9now-livestreams.akamaized.net/hls/live/2010629/rush-bne/master.m3u8
+
+#EXTINF:-1, Channel 10 Brisbane
+https://live.10play.com.au/10QLD/stream.m3u8
+
+#EXTINF:-1, 10Peach Brisbane
+https://live.10play.com.au/10PeachQLD/stream.m3u8
+
+#EXTINF:-1, 10Bold Brisbane
+https://live.10play.com.au/10BoldQLD/stream.m3u8
+
+#EXTINF:-1, SBS One
+https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
+
+#EXTINF:-1, SBS Viceland
+https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8
+
+#EXTINF:-1, SBS World Movies
+https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8
+
+#EXTINF:-1, SBS Food
+https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
+
+#EXTINF:-1, Sky News Australia
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
+
+#EXTINF:-1, Fox Sports News Australia
+https://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8
+
+#EXTINF:-1,  Sky Racing 1
+https://skyliverwwa-i.akamaihd.net/hls/live/570288/skyliverwwa/sky1rw.m3u8
+
+#EXTINF:-1,  Sky Racing 2
+https://skyliverwwa-i.akamaihd.net/hls/live/570288/skyliverwwa/sky2rw.m3u8
+
+#EXTINF:-1,  Sky Greyhound
+https://skylivegrv-i.akamaihd.net/hls/live/780031/skylivegrv/grv_extreme@780031.m3u8
+
+#EXTINF:-1,  Thoroughbred Central
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw_extreme@219670.m3u8
+
+#EXTINF:-1,  Sky News 1 Extra 
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+
+#EXTINF:-1,  Sky News 2 Extra 
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+
+#EXTINF:-1,  Sky News 3 Extra 
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+
+#EXTINF:-1,  Bloomberg Australia
+https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8?checkedby:dailyfreeiptvlist.com
+
+#EXTINF:-1,  Stingray Greatest Hits
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+
+#EXTINF:-1,  Stingray 80s
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+
+#EXTINF:-1,  Stingray 70s
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+
+#EXTINF:-1,  Stingray Hot Country
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+
+#EXTINF:-1,  Stingray Classic Rock
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+
+#EXTINF:-1,  Stingray Alternative
+https://stirr.ott-channels.stingray.com/102/master.m3u8
+
+#EXTINF:-1,  Stingray Pop Adult
+https://stirr.ott-channels.stingray.com/104/master.m3u8
+
+#EXTINF:-1,  Stingray Hit List
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+
+#EXTINF:-1, Disney Channel HD
+http://barakatiptv.com:80/Em1SsGJcKU/4MxbDiqcqM/53273
+
+#EXTINF:-1, Fox Footy Network HD
+http://barakatiptv.com:80/Em1SsGJcKU/4MxbDiqcqM/53232
+
+#EXTINF:-1, NICKELODEON
+http://barakatiptv.com:80/Em1SsGJcKU/4MxbDiqcqM/53278
+
+
+
+
+#EXTINF:-1,Fox Sports HD 501
+http://ingrid.ltd:25461/live/Cc1/Cc1/40903.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1, FOX SPORTS 501 HD
+http://exodus1.eu:8080/blue123/blue123/459268?checkedby:hlscat.com
+
+#EXTINF:-1, Fox Sports HD 502
+http://ingrid.ltd:25461/live/Cc1/Cc1/40902.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1, Fox Sports HD 503
+http://ingrid.ltd:25461/live/Cc1/Cc1/40901.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1, Fox Sports HD 504
+http://ingrid.ltd:25461/live/Cc1/Cc1/40900.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1,Fox Sports HD 505
+http://ingrid.ltd:25461/live/Cc1/Cc1/40899.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1,Fox Sports HD 506
+http://ingrid.ltd:25461/live/Cc1/Cc1/40898.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1,Fox Sports HD 507
+http://ingrid.ltd:25461/live/Cc1/Cc1/40897.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1,Fox Sports News HD
+http://ingrid.ltd:25461/live/Cc1/Cc1/40896.m3u8?checkedby:hlscat.com
+
+
+#EXTINF:-1,Fox Sports
+https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1 group-title="Auto" tvg-id="" tvg-name="" tvg-logo="",FOX SPORTS RACING
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1,ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:-1, Discovery Channel HD
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:-1,Discovery Channel
+https://bit.ly/33gUy1A
+#EXTINF:-1,Discovery Science
+https://bit.ly/2yL6bQh
+#EXTINF:-1 ,Discovery Shed
+https://bit.ly/2KBxXnI
+#EXTINF:-1 ,Discovery Turbo
+https://bit.ly/2TetwTS
+
+
+#EXTINF:-1,National Geographic
+http://bit.ly/2Gyd8Zv
+
+#EXTINF:-1 ,NatGeo Wild HD
+http://bit.ly/2Mh65rL
+
+#EXTINF:-1,NatGeo People HD
+http://bit.ly/2Yn6JWR
+
+#EXTINF:-1,CARTOON NETWORK
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
